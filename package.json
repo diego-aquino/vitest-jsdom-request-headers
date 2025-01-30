@@ -1,0 +1,14 @@
+{
+  "name": "@vitest/example-test",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js",
+  "packageManager": "pnpm@9.12.3",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "jsdom": "^26.0.0",
+    "vitest": "^3.0.4"
+  }
+}
