@@ -1,6 +1,6 @@
-# Vitest `error.stack` in browser mode
+# Vitest reproduction: `request.headers` is not an instance of `Headers` when using JSDOM
 
-This is a reproduction for ...
+This is a reproduction for https://github.com/vitest-dev/vitest/issues/7389.
 
 ## Getting started
 
